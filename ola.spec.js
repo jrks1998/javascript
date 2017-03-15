@@ -1,6 +1,6 @@
-const Code = Require('code');
+const Code = require('code');
 
-const Lab = Require('lab');
+const Lab = require('lab');
 
 const lab = exports.lab=Lab.script();
 
